@@ -1,2 +1,9 @@
 This is baka.txt file (Edited).
+<<<<<<< HEAD
+This is a line added in working.
+||||||| merged common ancestors
+=======
 This is a line added in master.
+THis is a line added in aho branch
+
+>>>>>>> 0e8525e1d5b5e876c57f4242ed1a5fda666b1d15
